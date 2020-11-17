@@ -1,0 +1,25 @@
+.video-js .vjs-big-play-button {
+    display: none;
+}
+
+.vjs-volume-panel.vjs-control.vjs-volume-panel-horizontal {
+    display: none;
+  }
+
+.video-js .vjs-dock-text {
+    display: none;
+  }
+
+.video-js .vjs-play-control {
+    display: none;
+}
+
+.vjs-tech {
+    pointer-events: none;
+}
+
+.video-js .vjs-control-bar {
+    background-color: white;
+  }
+
+
